@@ -4,8 +4,8 @@ Amostragem de sinais de tempo contínuo
 
 Grupo formado por:
 
--Danilo Raposo
+Danilo Raposo
 
--Janderson Barboza
+Janderson Barboza
 
--Rodrigo Cunha
+Rodrigo Cunha
